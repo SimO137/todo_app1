@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/todo_app1/static/css/main.dbe48619.css",
+    "main.js": "/todo_app1/static/js/main.7197ba1f.js",
+    "static/js/787.f5044f35.chunk.js": "/todo_app1/static/js/787.f5044f35.chunk.js",
+    "static/media/bluell.jpg": "/todo_app1/static/media/bluell.9da3d7d7967b07f36bc0.jpg",
+    "static/media/logo.svg": "/todo_app1/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/todo_app1/index.html",
+    "main.dbe48619.css.map": "/todo_app1/static/css/main.dbe48619.css.map",
+    "main.7197ba1f.js.map": "/todo_app1/static/js/main.7197ba1f.js.map",
+    "787.f5044f35.chunk.js.map": "/todo_app1/static/js/787.f5044f35.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbe48619.css",
+    "static/js/main.7197ba1f.js"
+  ]
+}
